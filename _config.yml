@@ -18,7 +18,7 @@ title: "ey's blog" # the main title
 
 tagline: "Writing, Writing, Writing" # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: # used by seo meta and the atom feed
   	"A personal space to log the bugs I run into and lessons I learn as a back-end developer."
 
 # Fill in the protocol & hostname for your site.
@@ -43,6 +43,10 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+
+author:
+  name: "eyineslee-dev"
+  email: "eyineslee@gmail.com"
 
 # Site Verification Settings
 webmaster_verifications:
