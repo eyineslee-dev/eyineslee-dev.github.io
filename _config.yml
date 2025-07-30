@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "ey's blog" # the main title
+title: ey's blog # the main title
 
-tagline: "Writing, Writing, Writing" # it will display as the subtitle
+tagline: Writing, Writing, Writing # it will display as the subtitle
 
-description: # used by seo meta and the atom feed
-  	"A personal space to log the bugs I run into and lessons I learn as a back-end developer."
+description: >- # used by seo meta and the atom feed
+  A personal space to log the bugs I run into and lessons I learn as a backend developer.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: "eyineslee-dev"
-  email: "eyineslee@gmail.com" # change to your email address
+  name: eyineslee-dev
+  email: eyineslee@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
