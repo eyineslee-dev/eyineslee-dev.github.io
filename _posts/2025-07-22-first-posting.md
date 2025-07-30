@@ -1,10 +1,8 @@
 ---
-layout: post
-title:  "드디어 jekyll chirpy 테마 적용"
+title: "posting 테스트"
+date: 2025-07-30 10:32:44 +/- TTTT
+categories: [posting]
+tags: [positing]		# TAG는 반드시 소문자로 이루어져야함!
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+# Posting 테스트
