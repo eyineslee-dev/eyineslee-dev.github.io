@@ -44,10 +44,6 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-author:
-  name: "eyineslee-dev"
-  email: "eyineslee@gmail.com"
-
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
