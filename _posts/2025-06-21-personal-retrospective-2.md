@@ -1,3 +1,11 @@
+---
+layout: post
+title: "디자인 작업"
+date: 2025-06-21 00:00:00 +0900
+categories: [Personal Retrospective, Project]
+tags: [personal retrospective, project]		# TAG는 반드시 소문자로 이루어져야함!
+---
+
 ## 디자인 작업 (2025.05.31 ~ 2025.06.15)
 
 러프하게 그린 레이아웃 디자인을 토대로 직접 디자인 작업을 하기로 했다.<br>
