@@ -6,7 +6,7 @@ categories: [Personal Retrospective, Project]
 tags: [personal retrospective, project]		# TAG는 반드시 소문자로 이루어져야함!
 ---
 
-## React.js 설치
+## React.js 설치 (2025.07.06 ~ 2025.07.12)
 
 프론트는 React.js를 사용하기로 하였으니 이제 내 PC에 설치할 차례이다.<br>
 
@@ -25,7 +25,7 @@ npm install create-react-app --template typescript
 
 설치는 끝났으니 이제 React.js에 대해 알아갈 시간이다.<br>
 
-## 공통 CSS 세팅
+## 공통 CSS 세팅 (2025.07.13 ~ 2025.07.19)
 
 공동 작업을 진행해야 하니 기본적인 css는 미리 세팅을 해야 할 것 같았다.<br>
 
@@ -43,3 +43,4 @@ Cursor에게 디자인 작업물을 보여주고 그에 맞는 각 css 파일을
 새로운 시작이란 항상 가슴이 두근두근하지만 준비 과정부터 재미있었기 때문에 앞으로의 개발 기간이 기대가 된다.<br>
 
 우리는 현재 회사를 다니고 있기 때문에 무리한 일정으로 서로를 힘들게 하고 의욕을 꺾는 일이 없도록 여유롭게 진행할 생각이다.<br>
+
